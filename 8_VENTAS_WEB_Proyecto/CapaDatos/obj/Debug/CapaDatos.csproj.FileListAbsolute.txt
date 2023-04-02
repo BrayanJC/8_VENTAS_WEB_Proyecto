@@ -1,0 +1,27 @@
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\obj\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\010_FUNCIONALIDAD SISTEMA VENTAS WEB C#\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Brayan JC\Desktop\Sistem\1\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Brayan JC\Desktop\Sistem\1\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Brayan JC\Desktop\Sistem\1\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\Brayan JC\Desktop\Sistem\1\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\Brayan JC\Desktop\Sistem\1\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Brayan JC\Desktop\Sistem\1\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Brayan JC\Desktop\Sistem\1\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Brayan JC\Desktop\Sistem\1\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Brayan JC\Desktop\Sistem\1\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.pdb
